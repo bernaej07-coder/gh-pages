@@ -5,5 +5,5 @@ We have learned a variety of things including:
 * adding photos
 * moving a ball around
 * click commands
-I didn't really know anything before taking this class.
+I didn't really know anything before taking this class.  
 _**But were getting somewhere**_
